@@ -1,5 +1,4 @@
 # EmailSearcher.v2.3
-Find all email addresses stored on your computer.
 
 This tool, developed in VB.NET using Visual Studio 2022, is designed to make it easy to find all email addresses stored on your computer. 
 It recursively and quickly scans files stored in a folder and its subfolders to collect email addresses that match the known email structure/format.
