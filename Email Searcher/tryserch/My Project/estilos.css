@@ -1,0 +1,9 @@
+﻿@font-face {
+    font-family: 'MiFuente';
+    src: url('woff.woff2') format('woff2');
+    /* Otros estilos, como font-weight y font-style, según sea necesario */
+}
+
+body {
+    font-family: 'MiFuente', woff; /* Usa el nombre definido en @font-face */
+}

@@ -1,0 +1,12 @@
+C:\Users\Cosmos89\source\repos\tryserch\tryserch\bin\Debug\tryserch.exe.config
+C:\Users\Cosmos89\source\repos\tryserch\tryserch\bin\Debug\tryserch.exe
+C:\Users\Cosmos89\source\repos\tryserch\tryserch\bin\Debug\tryserch.pdb
+C:\Users\Cosmos89\source\repos\tryserch\tryserch\bin\Debug\tryserch.xml
+C:\Users\Cosmos89\source\repos\tryserch\tryserch\obj\Debug\tryserch.vbproj.AssemblyReference.cache
+C:\Users\Cosmos89\source\repos\tryserch\tryserch\obj\Debug\tryserch.Form1.resources
+C:\Users\Cosmos89\source\repos\tryserch\tryserch\obj\Debug\tryserch.Resources.resources
+C:\Users\Cosmos89\source\repos\tryserch\tryserch\obj\Debug\tryserch.vbproj.GenerateResource.cache
+C:\Users\Cosmos89\source\repos\tryserch\tryserch\obj\Debug\tryserch.vbproj.CoreCompileInputs.cache
+C:\Users\Cosmos89\source\repos\tryserch\tryserch\obj\Debug\tryserch.exe
+C:\Users\Cosmos89\source\repos\tryserch\tryserch\obj\Debug\tryserch.xml
+C:\Users\Cosmos89\source\repos\tryserch\tryserch\obj\Debug\tryserch.pdb
