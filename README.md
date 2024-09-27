@@ -5,6 +5,6 @@ It recursively and quickly scans files stored in a folder and its subfolders to 
 Its options include limiting the size and extension of the files to search, filtering by all available Internet domains (TLD), 
 append new searches to the list and regulate the intensity of the search.
 Furthermore, it has a smart selection system that associates the files with his found emails. 
-This app works with .NET Framework on Microsoft Windows 7, 8, 8.1, 10, and 11 (32-64 bit).
+This app works with .NET Framework on Microsoft Windows 7 (32-64 bit) and later.
 
 Web: https://microsoft64bits.wixsite.com/emailsearcher
