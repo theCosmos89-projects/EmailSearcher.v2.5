@@ -75,7 +75,7 @@ Public Class Form1
 
         MessageBox.Show("This is a free tool. Its function is to find and list all the email addresses stored in the files of a folder and its sub-folders. I hope you find it useful.", bycosmos, MessageBoxButtons.OK, MessageBoxIcon.Information)
 
-        Button2_Click(sender, e)
+        Button2.PerformClick()
 
     End Sub
 
