@@ -46,15 +46,3 @@ D:\Soft\tryserch\tryserch\bin\Debug\Email Searcher 2.5.xml
 D:\Soft\tryserch\tryserch\obj\Debug\Email Searcher 2.5.exe
 D:\Soft\tryserch\tryserch\obj\Debug\Email Searcher 2.5.xml
 D:\Soft\tryserch\tryserch\obj\Debug\Email Searcher 2.5.pdb
-C:\Users\Cosmos89\Desktop\Email Searcher\tryserch\bin\Debug\Email Searcher 2.5.exe.config
-C:\Users\Cosmos89\Desktop\Email Searcher\tryserch\bin\Debug\Email Searcher 2.5.exe
-C:\Users\Cosmos89\Desktop\Email Searcher\tryserch\bin\Debug\Email Searcher 2.5.pdb
-C:\Users\Cosmos89\Desktop\Email Searcher\tryserch\bin\Debug\Email Searcher 2.5.xml
-C:\Users\Cosmos89\Desktop\Email Searcher\tryserch\obj\Debug\Fullsearcher.vbproj.AssemblyReference.cache
-C:\Users\Cosmos89\Desktop\Email Searcher\tryserch\obj\Debug\EmailSearcher.Form1.resources
-C:\Users\Cosmos89\Desktop\Email Searcher\tryserch\obj\Debug\EmailSearcher.Resources.resources
-C:\Users\Cosmos89\Desktop\Email Searcher\tryserch\obj\Debug\Fullsearcher.vbproj.GenerateResource.cache
-C:\Users\Cosmos89\Desktop\Email Searcher\tryserch\obj\Debug\Fullsearcher.vbproj.CoreCompileInputs.cache
-C:\Users\Cosmos89\Desktop\Email Searcher\tryserch\obj\Debug\Email Searcher 2.5.exe
-C:\Users\Cosmos89\Desktop\Email Searcher\tryserch\obj\Debug\Email Searcher 2.5.xml
-C:\Users\Cosmos89\Desktop\Email Searcher\tryserch\obj\Debug\Email Searcher 2.5.pdb

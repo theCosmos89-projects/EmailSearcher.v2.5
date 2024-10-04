@@ -1,0 +1,12 @@
+D:\Soft\tryserch\tryserch\bin\Release\Email Searcher 2.5.exe.config
+D:\Soft\tryserch\tryserch\bin\Release\Email Searcher 2.5.exe
+D:\Soft\tryserch\tryserch\bin\Release\Email Searcher 2.5.pdb
+D:\Soft\tryserch\tryserch\bin\Release\Email Searcher 2.5.xml
+D:\Soft\tryserch\tryserch\obj\Release\Fullsearcher.vbproj.AssemblyReference.cache
+D:\Soft\tryserch\tryserch\obj\Release\EmailSearcher.Form1.resources
+D:\Soft\tryserch\tryserch\obj\Release\EmailSearcher.Resources.resources
+D:\Soft\tryserch\tryserch\obj\Release\Fullsearcher.vbproj.GenerateResource.cache
+D:\Soft\tryserch\tryserch\obj\Release\Fullsearcher.vbproj.CoreCompileInputs.cache
+D:\Soft\tryserch\tryserch\obj\Release\Email Searcher 2.5.exe
+D:\Soft\tryserch\tryserch\obj\Release\Email Searcher 2.5.xml
+D:\Soft\tryserch\tryserch\obj\Release\Email Searcher 2.5.pdb

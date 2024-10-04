@@ -1,0 +1,427 @@
+Renamed Types:
+
+[Email Searcher 2.5]EmailSearcher.My.MyProject -> [Email Searcher 2.5] . 
+{
+	[Email Searcher 2.5]EmailSearcher.My.MyProject::get_Computer[0]( ) ->  
+	[Email Searcher 2.5]EmailSearcher.My.MyProject::get_Application[0]( ) ->  
+	[Email Searcher 2.5]EmailSearcher.My.MyProject::get_User[0]( ) ->  
+	[Email Searcher 2.5]EmailSearcher.My.MyProject::get_Forms[0]( ) ->  
+	[Email Searcher 2.5]EmailSearcher.My.MyProject::get_WebServices[0]( ) ->  
+
+	[Email Searcher 2.5]EmailSearcher.My.MyProject::.cctor[0]( ) skipped:  special name
+
+	EmailSearcher.My.MyProject/ThreadSafeObjectProvider`1<EmailSearcher.My.MyComputer> [Email Searcher 2.5]EmailSearcher.My.MyProject/ThreadSafeObjectProvider`1<EmailSearcher.My.MyComputer> EmailSearcher.My.MyProject::m_ComputerObjectProvider ->  
+	EmailSearcher.My.MyProject/ThreadSafeObjectProvider`1<EmailSearcher.My.MyApplication> [Email Searcher 2.5]EmailSearcher.My.MyProject/ThreadSafeObjectProvider`1<EmailSearcher.My.MyApplication> EmailSearcher.My.MyProject::m_AppObjectProvider ->  
+	EmailSearcher.My.MyProject/ThreadSafeObjectProvider`1<Microsoft.VisualBasic.ApplicationServices.User> [Email Searcher 2.5]EmailSearcher.My.MyProject/ThreadSafeObjectProvider`1<Microsoft.VisualBasic.ApplicationServices.User> EmailSearcher.My.MyProject::m_UserObjectProvider ->  
+	EmailSearcher.My.MyProject/ThreadSafeObjectProvider`1<EmailSearcher.My.MyProject/MyForms> [Email Searcher 2.5]EmailSearcher.My.MyProject/ThreadSafeObjectProvider`1<EmailSearcher.My.MyProject/MyForms> EmailSearcher.My.MyProject::m_MyFormsObjectProvider ->  
+	EmailSearcher.My.MyProject/ThreadSafeObjectProvider`1<EmailSearcher.My.MyProject/MyWebServices> [Email Searcher 2.5]EmailSearcher.My.MyProject/ThreadSafeObjectProvider`1<EmailSearcher.My.MyProject/MyWebServices> EmailSearcher.My.MyProject::m_MyWebServicesObjectProvider ->  
+
+	EmailSearcher.My.MyComputer [Email Searcher 2.5]EmailSearcher.My.MyComputer EmailSearcher.My.MyProject::Computer ->  
+	EmailSearcher.My.MyApplication [Email Searcher 2.5]EmailSearcher.My.MyApplication EmailSearcher.My.MyProject::Application ->  
+	Microsoft.VisualBasic.ApplicationServices.User [Email Searcher 2.5]Microsoft.VisualBasic.ApplicationServices.User EmailSearcher.My.MyProject::User ->  
+	EmailSearcher.My.MyProject/MyForms [Email Searcher 2.5]EmailSearcher.My.MyProject/MyForms EmailSearcher.My.MyProject::Forms ->  
+	EmailSearcher.My.MyProject/MyWebServices [Email Searcher 2.5]EmailSearcher.My.MyProject/MyWebServices EmailSearcher.My.MyProject::WebServices ->  
+}
+
+[Email Searcher 2.5]EmailSearcher.My.Resources.Resources -> [Email Searcher 2.5] . 
+{
+	[Email Searcher 2.5]EmailSearcher.My.Resources.Resources::get_ResourceManager[0]( ) ->  
+	[Email Searcher 2.5]EmailSearcher.My.Resources.Resources::get_Culture[0]( ) ->  
+	[Email Searcher 2.5]EmailSearcher.My.Resources.Resources::set_Culture[1]( [mscorlib]System.Globalization.CultureInfo ) ->  
+	[Email Searcher 2.5]EmailSearcher.My.Resources.Resources::get_domains[0]( ) ->  
+	[Email Searcher 2.5]EmailSearcher.My.Resources.Resources::get_font[0]( ) ->  
+
+	System.Resources.ResourceManager [Email Searcher 2.5]System.Resources.ResourceManager EmailSearcher.My.Resources.Resources::resourceMan ->  
+	System.Globalization.CultureInfo [Email Searcher 2.5]System.Globalization.CultureInfo EmailSearcher.My.Resources.Resources::resourceCulture ->  
+
+	System.Resources.ResourceManager [Email Searcher 2.5]System.Resources.ResourceManager EmailSearcher.My.Resources.Resources::ResourceManager ->  
+	System.Globalization.CultureInfo [Email Searcher 2.5]System.Globalization.CultureInfo EmailSearcher.My.Resources.Resources::Culture ->  
+	System.String [Email Searcher 2.5]System.String EmailSearcher.My.Resources.Resources::domains -> dropped
+	System.Byte[] [Email Searcher 2.5]System.Byte[] EmailSearcher.My.Resources.Resources::font -> dropped
+}
+
+[Email Searcher 2.5]EmailSearcher.My.MySettings -> [Email Searcher 2.5] . 
+{
+	[Email Searcher 2.5]EmailSearcher.My.MySettings::AutoSaveSettings[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Email Searcher 2.5]EmailSearcher.My.MySettings::get_Default[0]( ) ->  
+
+	[Email Searcher 2.5]EmailSearcher.My.MySettings::.cctor[0]( ) skipped:  special name
+	[Email Searcher 2.5]EmailSearcher.My.MySettings::.ctor[0]( ) skipped:  special name
+
+	EmailSearcher.My.MySettings [Email Searcher 2.5]EmailSearcher.My.MySettings EmailSearcher.My.MySettings::defaultInstance ->  
+	System.Boolean [Email Searcher 2.5]System.Boolean EmailSearcher.My.MySettings::addedHandler ->  
+	System.Object [Email Searcher 2.5]System.Object EmailSearcher.My.MySettings::addedHandlerLockObject ->  
+
+	EmailSearcher.My.MySettings [Email Searcher 2.5]EmailSearcher.My.MySettings EmailSearcher.My.MySettings::Default -> dropped
+}
+
+[Email Searcher 2.5]EmailSearcher.Form1 -> [Email Searcher 2.5] . 
+{
+	[Email Searcher 2.5]EmailSearcher.Form1::get_Ex[0]( ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::set_Ex[1]( [Email Searcher 2.5]EmailSearcher.MailExtractor ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::SendMessageLB[4]( [mscorlib]System.IntPtr, [mscorlib]System.Int32, [mscorlib]System.UInt16, [mscorlib]System.UInt16 ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::LoadAndApplyCustomFont[0]( ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::Form1_Load[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::Form1_Shown[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::Applyallfiles[3]( [mscorlib]System.String, [mscorlib]System.String, [Email Searcher 2.5]EmailSearcher.Form1/processFileDelegate ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::ProcessFile[1]( [mscorlib]System.String ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::GetElapsedTime[1]( [mscorlib]System.Int64 ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::Finish[0]( ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::Button2_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::Button1_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::CopyToolStripMenuItem_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::OpenFolderToolStripMenuItem_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::TextBox2_GotFocus[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::TextBox2_Leave[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::PictureBox1_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::CopyToolStripMenuItem1_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::DeleteFilesToolStripMenuItem_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::ListBox1_DoubleClick[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::CheckBox1_CheckStateChanged[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::CopyToNotepadToolStripMenuItem_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ​
+	[Email Searcher 2.5]EmailSearcher.Form1::Clean[0]( ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::Form1_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ‐
+	[Email Searcher 2.5]EmailSearcher.Form1::Tooltip[1]( [System.Windows.Forms]System.Windows.Forms.ListBox ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::SelectFiles[0]( ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::SelectEmails[0]( ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::ListBox1_SelectedIndexChanged[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ‑
+	[Email Searcher 2.5]EmailSearcher.Form1::ListBox2_SelectedIndexChanged[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ‒
+	[Email Searcher 2.5]EmailSearcher.Form1::Filter_result[0]( ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::TextBox4_TextChanged[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> –
+	[Email Searcher 2.5]EmailSearcher.Form1::ListBox1_MouseMove[2]( [mscorlib]System.Object, [System.Windows.Forms]System.Windows.Forms.MouseEventArgs ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::ListBox2_MouseMove[2]( [mscorlib]System.Object, [System.Windows.Forms]System.Windows.Forms.MouseEventArgs ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::TextBox3_KeyPress[2]( [mscorlib]System.Object, [System.Windows.Forms]System.Windows.Forms.KeyPressEventArgs ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::TextBox2_KeyPress[2]( [mscorlib]System.Object, [System.Windows.Forms]System.Windows.Forms.KeyPressEventArgs ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::Aleft1[0]( ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::Aleft2[0]( ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::SelectAllToolStripMenuItem_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> —
+	[Email Searcher 2.5]EmailSearcher.Form1::TrackBar1_Scroll[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ―
+	[Email Searcher 2.5]EmailSearcher.Form1::Label8_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> •
+	[Email Searcher 2.5]EmailSearcher.Form1::Label1_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ․
+	[Email Searcher 2.5]EmailSearcher.Form1::InitializeComponent[0]( ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::get_Button1[0]( ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::set_Button1[1]( [System.Windows.Forms]System.Windows.Forms.Button ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::get_Button2[0]( ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::set_Button2[1]( [System.Windows.Forms]System.Windows.Forms.Button ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::get_TextBox1[0]( ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::set_TextBox1[1]( [System.Windows.Forms]System.Windows.Forms.TextBox ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::get_TextBox2[0]( ) -> ​
+	[Email Searcher 2.5]EmailSearcher.Form1::set_TextBox2[1]( [System.Windows.Forms]System.Windows.Forms.TextBox ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::get_TextBox3[0]( ) -> ‐
+	[Email Searcher 2.5]EmailSearcher.Form1::set_TextBox3[1]( [System.Windows.Forms]System.Windows.Forms.TextBox ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::get_Label2[0]( ) -> ‑
+	[Email Searcher 2.5]EmailSearcher.Form1::set_Label2[1]( [System.Windows.Forms]System.Windows.Forms.Label ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::get_Label3[0]( ) -> ‒
+	[Email Searcher 2.5]EmailSearcher.Form1::set_Label3[1]( [System.Windows.Forms]System.Windows.Forms.Label ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::get_Label4[0]( ) -> –
+	[Email Searcher 2.5]EmailSearcher.Form1::set_Label4[1]( [System.Windows.Forms]System.Windows.Forms.Label ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::get_ContextMenuStrip1[0]( ) -> —
+	[Email Searcher 2.5]EmailSearcher.Form1::set_ContextMenuStrip1[1]( [System.Windows.Forms]System.Windows.Forms.ContextMenuStrip ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::get_CopyToolStripMenuItem[0]( ) -> ―
+	[Email Searcher 2.5]EmailSearcher.Form1::set_CopyToolStripMenuItem[1]( [System.Windows.Forms]System.Windows.Forms.ToolStripMenuItem ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::get_OpenFolderToolStripMenuItem[0]( ) -> •
+	[Email Searcher 2.5]EmailSearcher.Form1::set_OpenFolderToolStripMenuItem[1]( [System.Windows.Forms]System.Windows.Forms.ToolStripMenuItem ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::get_Label5[0]( ) -> ․
+	[Email Searcher 2.5]EmailSearcher.Form1::set_Label5[1]( [System.Windows.Forms]System.Windows.Forms.Label ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::get_CheckBox2[0]( ) -> ‥
+	[Email Searcher 2.5]EmailSearcher.Form1::set_CheckBox2[1]( [System.Windows.Forms]System.Windows.Forms.CheckBox ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::get_CheckBox1[0]( ) -> ‧
+	[Email Searcher 2.5]EmailSearcher.Form1::set_CheckBox1[1]( [System.Windows.Forms]System.Windows.Forms.CheckBox ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::get_PictureBox1[0]( ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::set_PictureBox1[1]( [System.Windows.Forms]System.Windows.Forms.PictureBox ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::get_ListBox1[0]( ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::set_ListBox1[1]( [System.Windows.Forms]System.Windows.Forms.ListBox ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::get_ListBox2[0]( ) -> ‪
+	[Email Searcher 2.5]EmailSearcher.Form1::set_ListBox2[1]( [System.Windows.Forms]System.Windows.Forms.ListBox ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::get_Label6[0]( ) -> ‫
+	[Email Searcher 2.5]EmailSearcher.Form1::set_Label6[1]( [System.Windows.Forms]System.Windows.Forms.Label ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::get_ContextMenuStrip2[0]( ) -> ‬
+	[Email Searcher 2.5]EmailSearcher.Form1::set_ContextMenuStrip2[1]( [System.Windows.Forms]System.Windows.Forms.ContextMenuStrip ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::get_CopyToolStripMenuItem1[0]( ) -> ‭
+	[Email Searcher 2.5]EmailSearcher.Form1::set_CopyToolStripMenuItem1[1]( [System.Windows.Forms]System.Windows.Forms.ToolStripMenuItem ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::get_Label7[0]( ) -> ‮
+	[Email Searcher 2.5]EmailSearcher.Form1::set_Label7[1]( [System.Windows.Forms]System.Windows.Forms.Label ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::get_CopyToNotepadToolStripMenuItem[0]( ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::set_CopyToNotepadToolStripMenuItem[1]( [System.Windows.Forms]System.Windows.Forms.ToolStripMenuItem ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::get_TextBox4[0]( ) -> ′
+	[Email Searcher 2.5]EmailSearcher.Form1::set_TextBox4[1]( [System.Windows.Forms]System.Windows.Forms.TextBox ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::get_Label8[0]( ) -> ‵
+	[Email Searcher 2.5]EmailSearcher.Form1::set_Label8[1]( [System.Windows.Forms]System.Windows.Forms.Label ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::get_DeleteFilesToolStripMenuItem[0]( ) -> ″
+	[Email Searcher 2.5]EmailSearcher.Form1::set_DeleteFilesToolStripMenuItem[1]( [System.Windows.Forms]System.Windows.Forms.ToolStripMenuItem ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::get_Label9[0]( ) -> ‶
+	[Email Searcher 2.5]EmailSearcher.Form1::set_Label9[1]( [System.Windows.Forms]System.Windows.Forms.Label ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::get_Label10[0]( ) -> ‾
+	[Email Searcher 2.5]EmailSearcher.Form1::set_Label10[1]( [System.Windows.Forms]System.Windows.Forms.Label ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::get_SelectAllToolStripMenuItem[0]( ) -> ⁇
+	[Email Searcher 2.5]EmailSearcher.Form1::set_SelectAllToolStripMenuItem[1]( [System.Windows.Forms]System.Windows.Forms.ToolStripMenuItem ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::get_TrackBar1[0]( ) -> ⁈
+	[Email Searcher 2.5]EmailSearcher.Form1::set_TrackBar1[1]( [System.Windows.Forms]System.Windows.Forms.TrackBar ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::get_Label11[0]( ) -> ⁉
+	[Email Searcher 2.5]EmailSearcher.Form1::set_Label11[1]( [System.Windows.Forms]System.Windows.Forms.Label ) ->  
+	[Email Searcher 2.5]EmailSearcher.Form1::get_Label1[0]( ) -> ⁊
+	[Email Searcher 2.5]EmailSearcher.Form1::set_Label1[1]( [System.Windows.Forms]System.Windows.Forms.Label ) ->  
+
+	[Email Searcher 2.5]EmailSearcher.Form1::.ctor[0]( ) skipped:  special name
+	[Email Searcher 2.5]EmailSearcher.Form1::Dispose[1]( [mscorlib]System.Boolean ) skipped:  external base class or interface
+
+	System.Boolean [Email Searcher 2.5]System.Boolean EmailSearcher.Form1::RunOnce ->  
+	System.String [Email Searcher 2.5]System.String EmailSearcher.Form1::bycosmos ->  
+	System.String [Email Searcher 2.5]System.String EmailSearcher.Form1::doms ->  
+	System.String [Email Searcher 2.5]System.String EmailSearcher.Form1::textBefore ->  
+	System.String [Email Searcher 2.5]System.String EmailSearcher.Form1::lastDirectory ->  
+	System.String [Email Searcher 2.5]System.String EmailSearcher.Form1::newEmails ->  
+	System.String [Email Searcher 2.5]System.String EmailSearcher.Form1::folder ->  
+	System.Boolean [Email Searcher 2.5]System.Boolean EmailSearcher.Form1::installFont ->  
+	System.Boolean [Email Searcher 2.5]System.Boolean EmailSearcher.Form1::selectAll ->  
+	System.Boolean [Email Searcher 2.5]System.Boolean EmailSearcher.Form1::isDeleting ->  
+	System.Boolean [Email Searcher 2.5]System.Boolean EmailSearcher.Form1::isFilter ->  
+	System.Boolean [Email Searcher 2.5]System.Boolean EmailSearcher.Form1::isFirst ->  
+	System.Drawing.Text.PrivateFontCollection [Email Searcher 2.5]System.Drawing.Text.PrivateFontCollection EmailSearcher.Form1::customFontCollection ->  
+	System.Boolean [Email Searcher 2.5]System.Boolean EmailSearcher.Form1::stopSearch ->  
+	System.Boolean [Email Searcher 2.5]System.Boolean EmailSearcher.Form1::isOn ->  
+	System.Int32 [Email Searcher 2.5]System.Int32 EmailSearcher.Form1::gCount ->  
+	System.Windows.Forms.ToolTip [Email Searcher 2.5]System.Windows.Forms.ToolTip EmailSearcher.Form1::myToolTip ->  
+	System.Diagnostics.Stopwatch [Email Searcher 2.5]System.Diagnostics.Stopwatch EmailSearcher.Form1::timer ->  
+	System.Collections.Generic.List`1<System.String> [Email Searcher 2.5]System.Collections.Generic.List`1<System.String> EmailSearcher.Form1::originalItems ->  
+	EmailSearcher.MailExtractor [Email Searcher 2.5]EmailSearcher.MailExtractor EmailSearcher.Form1::_Ex ->  
+	System.Int32 [Email Searcher 2.5]System.Int32 EmailSearcher.Form1::LB_SELITEMRANGEEX ->  
+	System.ComponentModel.IContainer [Email Searcher 2.5]System.ComponentModel.IContainer EmailSearcher.Form1::components ->  
+	System.Windows.Forms.Button [Email Searcher 2.5]System.Windows.Forms.Button EmailSearcher.Form1::_Button1 ->  
+	System.Windows.Forms.Button [Email Searcher 2.5]System.Windows.Forms.Button EmailSearcher.Form1::_Button2 ->  
+	System.Windows.Forms.TextBox [Email Searcher 2.5]System.Windows.Forms.TextBox EmailSearcher.Form1::_TextBox1 ->  
+	System.Windows.Forms.TextBox [Email Searcher 2.5]System.Windows.Forms.TextBox EmailSearcher.Form1::_TextBox2 ->  
+	System.Windows.Forms.TextBox [Email Searcher 2.5]System.Windows.Forms.TextBox EmailSearcher.Form1::_TextBox3 ->  
+	System.Windows.Forms.Label [Email Searcher 2.5]System.Windows.Forms.Label EmailSearcher.Form1::_Label2 ->  
+	System.Windows.Forms.Label [Email Searcher 2.5]System.Windows.Forms.Label EmailSearcher.Form1::_Label3 ->  
+	System.Windows.Forms.Label [Email Searcher 2.5]System.Windows.Forms.Label EmailSearcher.Form1::_Label4 ->  
+	System.Windows.Forms.ContextMenuStrip [Email Searcher 2.5]System.Windows.Forms.ContextMenuStrip EmailSearcher.Form1::_ContextMenuStrip1 ->  
+	System.Windows.Forms.ToolStripMenuItem [Email Searcher 2.5]System.Windows.Forms.ToolStripMenuItem EmailSearcher.Form1::_CopyToolStripMenuItem ->  
+	System.Windows.Forms.ToolStripMenuItem [Email Searcher 2.5]System.Windows.Forms.ToolStripMenuItem EmailSearcher.Form1::_OpenFolderToolStripMenuItem ->  
+	System.Windows.Forms.Label [Email Searcher 2.5]System.Windows.Forms.Label EmailSearcher.Form1::_Label5 ->  
+	System.Windows.Forms.CheckBox [Email Searcher 2.5]System.Windows.Forms.CheckBox EmailSearcher.Form1::_CheckBox2 ->  
+	System.Windows.Forms.CheckBox [Email Searcher 2.5]System.Windows.Forms.CheckBox EmailSearcher.Form1::_CheckBox1 ->  
+	System.Windows.Forms.PictureBox [Email Searcher 2.5]System.Windows.Forms.PictureBox EmailSearcher.Form1::_PictureBox1 ->  
+	System.Windows.Forms.ListBox [Email Searcher 2.5]System.Windows.Forms.ListBox EmailSearcher.Form1::_ListBox1 ->  
+	System.Windows.Forms.ListBox [Email Searcher 2.5]System.Windows.Forms.ListBox EmailSearcher.Form1::_ListBox2 ->  
+	System.Windows.Forms.Label [Email Searcher 2.5]System.Windows.Forms.Label EmailSearcher.Form1::_Label6 ->  
+	System.Windows.Forms.ContextMenuStrip [Email Searcher 2.5]System.Windows.Forms.ContextMenuStrip EmailSearcher.Form1::_ContextMenuStrip2 ->  
+	System.Windows.Forms.ToolStripMenuItem [Email Searcher 2.5]System.Windows.Forms.ToolStripMenuItem EmailSearcher.Form1::_CopyToolStripMenuItem1 ->  
+	System.Windows.Forms.Label [Email Searcher 2.5]System.Windows.Forms.Label EmailSearcher.Form1::_Label7 ->  
+	System.Windows.Forms.ToolStripMenuItem [Email Searcher 2.5]System.Windows.Forms.ToolStripMenuItem EmailSearcher.Form1::_CopyToNotepadToolStripMenuItem ->  
+	System.Windows.Forms.TextBox [Email Searcher 2.5]System.Windows.Forms.TextBox EmailSearcher.Form1::_TextBox4 ->  
+	System.Windows.Forms.Label [Email Searcher 2.5]System.Windows.Forms.Label EmailSearcher.Form1::_Label8 ->  
+	System.Windows.Forms.ToolStripMenuItem [Email Searcher 2.5]System.Windows.Forms.ToolStripMenuItem EmailSearcher.Form1::_DeleteFilesToolStripMenuItem ->  
+	System.Windows.Forms.Label [Email Searcher 2.5]System.Windows.Forms.Label EmailSearcher.Form1::_Label9 ->  
+	System.Windows.Forms.Label [Email Searcher 2.5]System.Windows.Forms.Label EmailSearcher.Form1::_Label10 ->  
+	System.Windows.Forms.ToolStripMenuItem [Email Searcher 2.5]System.Windows.Forms.ToolStripMenuItem EmailSearcher.Form1::_SelectAllToolStripMenuItem ->  
+	System.Windows.Forms.TrackBar [Email Searcher 2.5]System.Windows.Forms.TrackBar EmailSearcher.Form1::_TrackBar1 ->  
+	System.Windows.Forms.Label [Email Searcher 2.5]System.Windows.Forms.Label EmailSearcher.Form1::_Label11 ->  
+	System.Windows.Forms.Label [Email Searcher 2.5]System.Windows.Forms.Label EmailSearcher.Form1::_Label1 ->  
+
+	EmailSearcher.MailExtractor [Email Searcher 2.5]EmailSearcher.MailExtractor EmailSearcher.Form1::Ex -> dropped
+	System.Windows.Forms.Button [Email Searcher 2.5]System.Windows.Forms.Button EmailSearcher.Form1::Button1 -> dropped
+	System.Windows.Forms.Button [Email Searcher 2.5]System.Windows.Forms.Button EmailSearcher.Form1::Button2 -> dropped
+	System.Windows.Forms.TextBox [Email Searcher 2.5]System.Windows.Forms.TextBox EmailSearcher.Form1::TextBox1 -> dropped
+	System.Windows.Forms.TextBox [Email Searcher 2.5]System.Windows.Forms.TextBox EmailSearcher.Form1::TextBox2 -> dropped
+	System.Windows.Forms.TextBox [Email Searcher 2.5]System.Windows.Forms.TextBox EmailSearcher.Form1::TextBox3 -> dropped
+	System.Windows.Forms.Label [Email Searcher 2.5]System.Windows.Forms.Label EmailSearcher.Form1::Label2 -> dropped
+	System.Windows.Forms.Label [Email Searcher 2.5]System.Windows.Forms.Label EmailSearcher.Form1::Label3 -> dropped
+	System.Windows.Forms.Label [Email Searcher 2.5]System.Windows.Forms.Label EmailSearcher.Form1::Label4 -> dropped
+	System.Windows.Forms.ContextMenuStrip [Email Searcher 2.5]System.Windows.Forms.ContextMenuStrip EmailSearcher.Form1::ContextMenuStrip1 -> dropped
+	System.Windows.Forms.ToolStripMenuItem [Email Searcher 2.5]System.Windows.Forms.ToolStripMenuItem EmailSearcher.Form1::CopyToolStripMenuItem -> dropped
+	System.Windows.Forms.ToolStripMenuItem [Email Searcher 2.5]System.Windows.Forms.ToolStripMenuItem EmailSearcher.Form1::OpenFolderToolStripMenuItem -> dropped
+	System.Windows.Forms.Label [Email Searcher 2.5]System.Windows.Forms.Label EmailSearcher.Form1::Label5 -> dropped
+	System.Windows.Forms.CheckBox [Email Searcher 2.5]System.Windows.Forms.CheckBox EmailSearcher.Form1::CheckBox2 -> dropped
+	System.Windows.Forms.CheckBox [Email Searcher 2.5]System.Windows.Forms.CheckBox EmailSearcher.Form1::CheckBox1 -> dropped
+	System.Windows.Forms.PictureBox [Email Searcher 2.5]System.Windows.Forms.PictureBox EmailSearcher.Form1::PictureBox1 -> dropped
+	System.Windows.Forms.ListBox [Email Searcher 2.5]System.Windows.Forms.ListBox EmailSearcher.Form1::ListBox1 -> dropped
+	System.Windows.Forms.ListBox [Email Searcher 2.5]System.Windows.Forms.ListBox EmailSearcher.Form1::ListBox2 -> dropped
+	System.Windows.Forms.Label [Email Searcher 2.5]System.Windows.Forms.Label EmailSearcher.Form1::Label6 -> dropped
+	System.Windows.Forms.ContextMenuStrip [Email Searcher 2.5]System.Windows.Forms.ContextMenuStrip EmailSearcher.Form1::ContextMenuStrip2 -> dropped
+	System.Windows.Forms.ToolStripMenuItem [Email Searcher 2.5]System.Windows.Forms.ToolStripMenuItem EmailSearcher.Form1::CopyToolStripMenuItem1 -> dropped
+	System.Windows.Forms.Label [Email Searcher 2.5]System.Windows.Forms.Label EmailSearcher.Form1::Label7 -> dropped
+	System.Windows.Forms.ToolStripMenuItem [Email Searcher 2.5]System.Windows.Forms.ToolStripMenuItem EmailSearcher.Form1::CopyToNotepadToolStripMenuItem -> dropped
+	System.Windows.Forms.TextBox [Email Searcher 2.5]System.Windows.Forms.TextBox EmailSearcher.Form1::TextBox4 -> dropped
+	System.Windows.Forms.Label [Email Searcher 2.5]System.Windows.Forms.Label EmailSearcher.Form1::Label8 -> dropped
+	System.Windows.Forms.ToolStripMenuItem [Email Searcher 2.5]System.Windows.Forms.ToolStripMenuItem EmailSearcher.Form1::DeleteFilesToolStripMenuItem -> dropped
+	System.Windows.Forms.Label [Email Searcher 2.5]System.Windows.Forms.Label EmailSearcher.Form1::Label9 -> dropped
+	System.Windows.Forms.Label [Email Searcher 2.5]System.Windows.Forms.Label EmailSearcher.Form1::Label10 -> dropped
+	System.Windows.Forms.ToolStripMenuItem [Email Searcher 2.5]System.Windows.Forms.ToolStripMenuItem EmailSearcher.Form1::SelectAllToolStripMenuItem -> dropped
+	System.Windows.Forms.TrackBar [Email Searcher 2.5]System.Windows.Forms.TrackBar EmailSearcher.Form1::TrackBar1 -> dropped
+	System.Windows.Forms.Label [Email Searcher 2.5]System.Windows.Forms.Label EmailSearcher.Form1::Label11 -> dropped
+	System.Windows.Forms.Label [Email Searcher 2.5]System.Windows.Forms.Label EmailSearcher.Form1::Label1 -> dropped
+}
+
+[Email Searcher 2.5]EmailSearcher.MailExtractor -> [Email Searcher 2.5] . 
+{
+	[Email Searcher 2.5]EmailSearcher.MailExtractor::ExtractEmails[1]( [mscorlib]System.String ) ->  
+	[Email Searcher 2.5]EmailSearcher.MailExtractor::UpdateUI[2]( [mscorlib]System.String, [mscorlib]System.String ) ->  
+	[Email Searcher 2.5]EmailSearcher.MailExtractor::IsValidDomainEmail[2]( [mscorlib]System.String, [System.Core]System.Collections.Generic.HashSet`1<[mscorlib]System.String> ) ->  
+	[Email Searcher 2.5]EmailSearcher.MailExtractor::AddRelation[3]( [mscorlib]System.String, [mscorlib]System.String, [mscorlib]System.Collections.Generic.Dictionary`2<[mscorlib]System.String,[mscorlib]System.Collections.Generic.List`1<[mscorlib]System.String>> ) ->  
+	[Email Searcher 2.5]EmailSearcher.MailExtractor::RegexString[0]( ) ->  
+	[Email Searcher 2.5]EmailSearcher.MailExtractor::GetDomainExtensions[0]( ) ->  
+	[Email Searcher 2.5]EmailSearcher.MailExtractor::SizeBuffer[1]( [mscorlib]System.String ) ->  
+
+	[Email Searcher 2.5]EmailSearcher.MailExtractor::.cctor[0]( ) skipped:  special name
+	[Email Searcher 2.5]EmailSearcher.MailExtractor::.ctor[0]( ) skipped:  special name
+
+	System.Collections.Generic.Dictionary`2<System.String,System.Collections.Generic.List`1<System.String>> [Email Searcher 2.5]System.Collections.Generic.Dictionary`2<System.String,System.Collections.Generic.List`1<System.String>> EmailSearcher.MailExtractor::FileEmailRelation ->  
+	System.Collections.Generic.Dictionary`2<System.String,System.Collections.Generic.List`1<System.String>> [Email Searcher 2.5]System.Collections.Generic.Dictionary`2<System.String,System.Collections.Generic.List`1<System.String>> EmailSearcher.MailExtractor::EmailFileRelation ->  
+}
+
+[Email Searcher 2.5]EmailSearcher.My.MyProject/MyForms -> [Email Searcher 2.5] . / 
+{
+	[Email Searcher 2.5]EmailSearcher.My.MyProject/MyForms::Create__Instance__[1]( !0 ) ->  
+	[Email Searcher 2.5]EmailSearcher.My.MyProject/MyForms::Dispose__Instance__[1]( [Email Searcher 2.5]T& ) ->  
+	[Email Searcher 2.5]EmailSearcher.My.MyProject/MyForms::GetType[0]( ) ->  
+	[Email Searcher 2.5]EmailSearcher.My.MyProject/MyForms::get_Form1[0]( ) ->  
+	[Email Searcher 2.5]EmailSearcher.My.MyProject/MyForms::set_Form1[1]( [Email Searcher 2.5]EmailSearcher.Form1 ) ->  
+
+	[Email Searcher 2.5]EmailSearcher.My.MyProject/MyForms::.ctor[0]( ) skipped:  special name
+	[Email Searcher 2.5]EmailSearcher.My.MyProject/MyForms::Equals[1]( [mscorlib]System.Object ) skipped:  external base class or interface
+	[Email Searcher 2.5]EmailSearcher.My.MyProject/MyForms::GetHashCode[0]( ) skipped:  external base class or interface
+	[Email Searcher 2.5]EmailSearcher.My.MyProject/MyForms::ToString[0]( ) skipped:  external base class or interface
+
+	System.Collections.Hashtable [Email Searcher 2.5]System.Collections.Hashtable EmailSearcher.My.MyProject/MyForms::m_FormBeingCreated ->  
+	EmailSearcher.Form1 [Email Searcher 2.5]EmailSearcher.Form1 EmailSearcher.My.MyProject/MyForms::m_Form1 ->  
+
+	EmailSearcher.Form1 [Email Searcher 2.5]EmailSearcher.Form1 EmailSearcher.My.MyProject/MyForms::Form1 -> dropped
+}
+
+[Email Searcher 2.5]EmailSearcher.My.MyProject/ThreadSafeObjectProvider`1 -> [Email Searcher 2.5] . / `1
+{
+	[Email Searcher 2.5]EmailSearcher.My.MyProject/ThreadSafeObjectProvider`1::get_GetInstance[0]( ) ->  
+
+	[Email Searcher 2.5]EmailSearcher.My.MyProject/ThreadSafeObjectProvider`1::.ctor[0]( ) skipped:  special name
+
+	T [Email Searcher 2.5]T EmailSearcher.My.MyProject/ThreadSafeObjectProvider`1::m_ThreadStaticValue ->  
+
+	  [Email Searcher 2.5]  EmailSearcher.My.MyProject/ThreadSafeObjectProvider`1::GetInstance -> dropped
+}
+
+[Email Searcher 2.5]EmailSearcher.Form1/VB$StateMachine_42_DeleteFilesToolStripMenuItem_Click -> [Email Searcher 2.5] . / 
+{
+	[Email Searcher 2.5]EmailSearcher.Form1/VB$StateMachine_42_DeleteFilesToolStripMenuItem_Click::System.Runtime.CompilerServices.IAsyncStateMachine.SetStateMachine[1]( [mscorlib]System.Runtime.CompilerServices.IAsyncStateMachine ) ->  
+
+	[Email Searcher 2.5]EmailSearcher.Form1/VB$StateMachine_42_DeleteFilesToolStripMenuItem_Click::.ctor[0]( ) skipped:  special name
+	[Email Searcher 2.5]EmailSearcher.Form1/VB$StateMachine_42_DeleteFilesToolStripMenuItem_Click::MoveNext[0]( ) skipped:  external base class or interface
+
+	System.Int32 [Email Searcher 2.5]System.Int32 EmailSearcher.Form1/VB$StateMachine_42_DeleteFilesToolStripMenuItem_Click::$State ->  
+	System.Runtime.CompilerServices.AsyncVoidMethodBuilder [Email Searcher 2.5]System.Runtime.CompilerServices.AsyncVoidMethodBuilder EmailSearcher.Form1/VB$StateMachine_42_DeleteFilesToolStripMenuItem_Click::$Builder ->  
+	System.Object [Email Searcher 2.5]System.Object EmailSearcher.Form1/VB$StateMachine_42_DeleteFilesToolStripMenuItem_Click::$VB$Local_sender ->  
+	System.EventArgs [Email Searcher 2.5]System.EventArgs EmailSearcher.Form1/VB$StateMachine_42_DeleteFilesToolStripMenuItem_Click::$VB$Local_e ->  
+	EmailSearcher.Form1 [Email Searcher 2.5]EmailSearcher.Form1 EmailSearcher.Form1/VB$StateMachine_42_DeleteFilesToolStripMenuItem_Click::$VB$Me ->  
+	System.Windows.Forms.DialogResult [Email Searcher 2.5]System.Windows.Forms.DialogResult EmailSearcher.Form1/VB$StateMachine_42_DeleteFilesToolStripMenuItem_Click::$VB$ResumableLocal_result$0 ->  
+	EmailSearcher.Form1/_Closure$__42-1 [Email Searcher 2.5]EmailSearcher.Form1/_Closure$__42-1 EmailSearcher.Form1/VB$StateMachine_42_DeleteFilesToolStripMenuItem_Click::$VB$ResumableLocal_$VB$Closure_$1 ->  
+	System.Collections.IEnumerator [Email Searcher 2.5]System.Collections.IEnumerator EmailSearcher.Form1/VB$StateMachine_42_DeleteFilesToolStripMenuItem_Click::$S2 ->  
+	System.Int32 [Email Searcher 2.5]System.Int32 EmailSearcher.Form1/VB$StateMachine_42_DeleteFilesToolStripMenuItem_Click::$VB$ResumableLocal_selectedIndex$3 ->  
+	System.String [Email Searcher 2.5]System.String EmailSearcher.Form1/VB$StateMachine_42_DeleteFilesToolStripMenuItem_Click::$VB$ResumableLocal_archivoSeleccionado$4 ->  
+	System.Collections.Generic.List`1<System.Threading.Tasks.Task> [Email Searcher 2.5]System.Collections.Generic.List`1<System.Threading.Tasks.Task> EmailSearcher.Form1/VB$StateMachine_42_DeleteFilesToolStripMenuItem_Click::$VB$ResumableLocal_tasks$5 ->  
+	System.Exception [Email Searcher 2.5]System.Exception EmailSearcher.Form1/VB$StateMachine_42_DeleteFilesToolStripMenuItem_Click::$VB$ResumableLocal_ex$6 ->  
+	System.Runtime.CompilerServices.TaskAwaiter [Email Searcher 2.5]System.Runtime.CompilerServices.TaskAwaiter EmailSearcher.Form1/VB$StateMachine_42_DeleteFilesToolStripMenuItem_Click::$A0 ->  
+}
+
+[Email Searcher 2.5]EmailSearcher.Form1/_Closure$__ -> [Email Searcher 2.5] . / 
+{
+
+	[Email Searcher 2.5]EmailSearcher.Form1/_Closure$__::.ctor[0]( ) skipped:  special name
+	[Email Searcher 2.5]EmailSearcher.Form1/_Closure$__::.cctor[0]( ) skipped:  special name
+	[Email Searcher 2.5]EmailSearcher.Form1/_Closure$__::_Lambda$__48-0[1]( [mscorlib]System.Object ) skipped:  special name
+
+	EmailSearcher.Form1/_Closure$__ [Email Searcher 2.5]EmailSearcher.Form1/_Closure$__ EmailSearcher.Form1/_Closure$__::$I ->  
+	System.Func`2<System.Object,System.String> [Email Searcher 2.5]System.Func`2<System.Object,System.String> EmailSearcher.Form1/_Closure$__::$I48-0 ->  
+}
+
+[Email Searcher 2.5]EmailSearcher.Form1/_Closure$__42-0 -> [Email Searcher 2.5] . / 
+{
+
+	[Email Searcher 2.5]EmailSearcher.Form1/_Closure$__42-0::.ctor[1]( [Email Searcher 2.5]EmailSearcher.Form1/_Closure$__42-0 ) skipped:  special name
+	[Email Searcher 2.5]EmailSearcher.Form1/_Closure$__42-0::_Lambda$__1[0]( ) skipped:  special name
+
+	System.String [Email Searcher 2.5]System.String EmailSearcher.Form1/_Closure$__42-0::$VB$Local_archivo ->  
+	EmailSearcher.Form1/_Closure$__42-1 [Email Searcher 2.5]EmailSearcher.Form1/_Closure$__42-1 EmailSearcher.Form1/_Closure$__42-0::$VB$NonLocal_$VB$Closure_2 ->  
+}
+
+[Email Searcher 2.5]EmailSearcher.Form1/_Closure$__42-1 -> [Email Searcher 2.5] . / 
+{
+
+	[Email Searcher 2.5]EmailSearcher.Form1/_Closure$__42-1::.ctor[1]( [Email Searcher 2.5]EmailSearcher.Form1/_Closure$__42-1 ) skipped:  special name
+	[Email Searcher 2.5]EmailSearcher.Form1/_Closure$__42-1::_Lambda$__0[1]( [mscorlib]System.String ) skipped:  special name
+	[Email Searcher 2.5]EmailSearcher.Form1/_Closure$__42-1::_Lambda$__2[0]( ) skipped:  special name
+
+	System.Boolean [Email Searcher 2.5]System.Boolean EmailSearcher.Form1/_Closure$__42-1::$VB$Local_archivosEliminados ->  
+	System.Collections.Generic.List`1<System.String> [Email Searcher 2.5]System.Collections.Generic.List`1<System.String> EmailSearcher.Form1/_Closure$__42-1::$VB$Local_erroresAlEliminar ->  
+	System.Collections.Generic.List`1<System.String> [Email Searcher 2.5]System.Collections.Generic.List`1<System.String> EmailSearcher.Form1/_Closure$__42-1::$VB$Local_archivosAEliminar ->  
+	EmailSearcher.Form1 [Email Searcher 2.5]EmailSearcher.Form1 EmailSearcher.Form1/_Closure$__42-1::$VB$Me ->  
+}
+
+[Email Searcher 2.5]EmailSearcher.Form1/_Closure$__53-0 -> [Email Searcher 2.5] . / 
+{
+
+	[Email Searcher 2.5]EmailSearcher.Form1/_Closure$__53-0::.ctor[0]( ) skipped:  special name
+	[Email Searcher 2.5]EmailSearcher.Form1/_Closure$__53-0::_Lambda$__0[1]( [mscorlib]System.String ) skipped:  special name
+
+	System.String [Email Searcher 2.5]System.String EmailSearcher.Form1/_Closure$__53-0::$VB$Local_searchTerm ->  
+}
+
+[Email Searcher 2.5]EmailSearcher.My.MySettingsProperty -> [Email Searcher 2.5] . 
+{
+	[Email Searcher 2.5]EmailSearcher.My.MySettingsProperty::get_Settings[0]( ) ->  
+
+	EmailSearcher.My.MySettings [Email Searcher 2.5]EmailSearcher.My.MySettings EmailSearcher.My.MySettingsProperty::Settings ->  
+}
+
+[Email Searcher 2.5]VB$AnonymousDelegate_0 -> [Email Searcher 2.5] . 
+{
+
+	[Email Searcher 2.5]VB$AnonymousDelegate_0::.ctor[2]( [mscorlib]System.Object, [mscorlib]System.IntPtr ) skipped:  runtime method
+	[Email Searcher 2.5]VB$AnonymousDelegate_0::BeginInvoke[2]( [mscorlib]System.AsyncCallback, [mscorlib]System.Object ) skipped:  runtime method
+	[Email Searcher 2.5]VB$AnonymousDelegate_0::EndInvoke[1]( [mscorlib]System.IAsyncResult ) skipped:  runtime method
+	[Email Searcher 2.5]VB$AnonymousDelegate_0::Invoke[0]( ) skipped:  runtime method
+}
+
+[Email Searcher 2.5]EmailSearcher.My.MyApplication -> [Email Searcher 2.5] . 
+{
+	[Email Searcher 2.5]EmailSearcher.My.MyApplication::Main[1]( [mscorlib]System.String[] ) ->  
+
+	[Email Searcher 2.5]EmailSearcher.My.MyApplication::.ctor[0]( ) skipped:  special name
+	[Email Searcher 2.5]EmailSearcher.My.MyApplication::OnCreateMainForm[0]( ) skipped:  external base class or interface
+}
+
+[Email Searcher 2.5]EmailSearcher.My.MyComputer -> [Email Searcher 2.5] . 
+{
+
+	[Email Searcher 2.5]EmailSearcher.My.MyComputer::.ctor[0]( ) skipped:  special name
+}
+
+[Email Searcher 2.5]EmailSearcher.My.MyProject/MyWebServices -> [Email Searcher 2.5] . / 
+{
+	[Email Searcher 2.5]EmailSearcher.My.MyProject/MyWebServices::GetType[0]( ) ->  
+	[Email Searcher 2.5]EmailSearcher.My.MyProject/MyWebServices::Create__Instance__[1]( !0 ) ->  
+	[Email Searcher 2.5]EmailSearcher.My.MyProject/MyWebServices::Dispose__Instance__[1]( [Email Searcher 2.5]T& ) ->  
+
+	[Email Searcher 2.5]EmailSearcher.My.MyProject/MyWebServices::Equals[1]( [mscorlib]System.Object ) skipped:  external base class or interface
+	[Email Searcher 2.5]EmailSearcher.My.MyProject/MyWebServices::GetHashCode[0]( ) skipped:  external base class or interface
+	[Email Searcher 2.5]EmailSearcher.My.MyProject/MyWebServices::ToString[0]( ) skipped:  external base class or interface
+	[Email Searcher 2.5]EmailSearcher.My.MyProject/MyWebServices::.ctor[0]( ) skipped:  special name
+}
+
+[Email Searcher 2.5]EmailSearcher.Form1/processFileDelegate -> [Email Searcher 2.5] . / 
+{
+
+	[Email Searcher 2.5]EmailSearcher.Form1/processFileDelegate::.ctor[2]( [mscorlib]System.Object, [mscorlib]System.IntPtr ) skipped:  runtime method
+	[Email Searcher 2.5]EmailSearcher.Form1/processFileDelegate::BeginInvoke[3]( [mscorlib]System.String, [mscorlib]System.AsyncCallback, [mscorlib]System.Object ) skipped:  runtime method
+	[Email Searcher 2.5]EmailSearcher.Form1/processFileDelegate::EndInvoke[1]( [mscorlib]System.IAsyncResult ) skipped:  runtime method
+	[Email Searcher 2.5]EmailSearcher.Form1/processFileDelegate::Invoke[1]( [mscorlib]System.String ) skipped:  runtime method
+}
+
+Skipped Types:
+
+Renamed Resources:
+
+EmailSearcher.Form1.resources ->  . .resources
+
+Skipped Resources:
+
+EmailSearcher.Resources.resources (no clear new name)
